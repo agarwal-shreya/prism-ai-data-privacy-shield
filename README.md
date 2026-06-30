@@ -18,4 +18,4 @@ Prism acts as an intelligent, transparent proxy that sanitizes outbound prompts 
 3. Maven 4.0
 4. Spring Boot 3.5
 
-This project is **In Progress** now.
+This project is **WIP**.
